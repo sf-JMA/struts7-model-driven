@@ -11,7 +11,7 @@
     <constant name="struts.convention.default.parent.package" value="struts7"/>
     <constant name="struts.disallowProxyObjectAccess" value="false"/>
     <constant name="struts.enable.DynamicMethodInvocation" value="true"/>
-    <constant name="struts.allowlist.packageNames" value="com.steadforce.aek.struts7modeldriven.actions" />
+    <!--<constant name="struts.allowlist.packageNames" value="com.steadforce.aek.struts7modeldriven.actions" />-->
     <!-- <constant name="struts.parameters.requireAnnotations" value="false" /> -->
 
     <package name="struts7" extends="struts-default">
